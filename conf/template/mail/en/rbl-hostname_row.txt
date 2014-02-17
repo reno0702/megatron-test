@@ -1,0 +1,4 @@
+Domain:    $hostname
+Timestamp: $logTimestamp
+Log entry: $originalLogEntry
+

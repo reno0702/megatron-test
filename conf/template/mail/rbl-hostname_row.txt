@@ -1,0 +1,4 @@
+Domän:   $hostname
+Tid:     $logTimestamp
+Loggrad: $originalLogEntry
+

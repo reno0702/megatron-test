@@ -1,0 +1,14 @@
+
+  /CERT-SE
+--
+CERT-SE, Swedens national Computer Emergency Response Team
+
+MSB, Swedish Civil Contingencies Agency
+Kungsgatan 53
+SE-111 22 STOCKHOLM
+Telefon: 08-678 57 99
+Mailto: cert@cert.se
+https://www.cert.se
+
+PGP: https://www.cert.se/cert_at_cert.se.asc
+A1A7 AC6A 6771 BB0C 1FB9 3880 494B E4BC 2DCA 67A6

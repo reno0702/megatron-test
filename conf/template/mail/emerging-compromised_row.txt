@@ -1,0 +1,4 @@
+IP:        $ipAddress
+Datornamn: $hostname
+AS-nummer: $asn
+

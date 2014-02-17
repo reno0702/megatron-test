@@ -1,0 +1,20 @@
+
+Om tidsstämpel saknas i loggraden sätts tiden till tidpunkten då
+loggraden hanterades av CERT-SE.
+
+Kontakta oss gärna vid frågor genom att svara på detta meddelande.
+
+  /CERT-SE
+--
+CERT-SE - Sveriges nationella Computer Emergency Response Team med uppgift
+att stödja samhället i arbetet med att hantera och förebygga IT-incidenter.
+
+MSB, Myndigheten för samhällsskydd och beredskap
+Kungsgatan 53
+SE-111 22 STOCKHOLM
+Telefon: 08-678 57 99
+Mailto: cert@cert.se
+https://www.cert.se
+
+PGP: https://www.cert.se/cert_at_cert.se.asc
+A1A7 AC6A 6771 BB0C 1FB9 3880 494B E4BC 2DCA 67A6

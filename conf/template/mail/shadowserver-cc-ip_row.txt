@@ -1,0 +1,8 @@
+IP:        $ipAddress
+Datornamn: $hostname
+Tid:       $logTimestamp
+
+Loggrad: 
+"IP Address","Port","Channel","Country","Region","State","Domain","ASN","AS Name","AS Description"
+$originalLogEntry
+
